@@ -1,34 +1,6 @@
-requirement bag
-
-	flask
-	flask-sqlalchemy
-	flask-script
-	flask-migrate
-	uwsgi
-	
------------------------------------------------------------------
-uwsgi startup method:
-
-uwsgi config.ini  or
-uwsgi --ini config.ini 
-	uwsgi --xml
-	      --json
-	      --yam
-
------------------------------------------------------------------
-nginx:configretion
-
-server {
-   listen 80;
-   server_name domain_name;
-   access_log /home/xuanwen/appserver/my_flask/logs/access.log;
-   error_log /home/xuanwen/appserver/my_flask/logs/error.log;
-   location / {
-        include uwsgi_params;
-        uwsgi_pass 127.0.0.1:5001;
-        #uwsgi_pass unix:/tmp/uwsgi.sock;
-        uwsgi_param UWSGI_PYHOME /home/xuanwen/appserver/my_flask/venv;
-        uwsgi_param UWSGI_CHDIR  /home/xuanwen/appserver/my_flask;
-        uwsgi_param UWSGI_SCRIPT manage:app;
-   }
-}
+flask
+flask-sqlalchemy
+flask-script
+flask-migrate
+uwsgi
+flask-bootstrap
