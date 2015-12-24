@@ -1,0 +1,584 @@
+*** Starting uWSGI 2.0.11.1 (64bit) on [Thu Dec 24 13:10:10 2015] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-11) on 21 July 2015 15:58:54
+os: Linux-2.6.32-504.30.3.el6.x86_64 #1 SMP Wed Jul 15 10:13:09 UTC 2015
+nodename: app
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/xuanwen/appserver/my_flask
+detected binary path: /usr/sbin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 30457
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5001 fd 3
+uwsgi socket 1 bound to UNIX address /tmp/uwsgi.sock fd 4
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166144 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 24201, cores: 2)
+spawned uWSGI worker 2 (pid: 24202, cores: 2)
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+*** Starting uWSGI 2.0.11.1 (64bit) on [Thu Dec 24 13:11:36 2015] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-11) on 21 July 2015 15:58:54
+os: Linux-2.6.32-504.30.3.el6.x86_64 #1 SMP Wed Jul 15 10:13:09 UTC 2015
+nodename: app
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/xuanwen/appserver/my_flask
+detected binary path: /usr/sbin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 30457
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5001 fd 3
+uwsgi socket 1 bound to UNIX address /tmp/uwsgi.sock fd 4
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166144 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 24214, cores: 2)
+spawned uWSGI worker 2 (pid: 24215, cores: 2)
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+*** Starting uWSGI 2.0.11.1 (64bit) on [Thu Dec 24 13:15:41 2015] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-11) on 21 July 2015 15:58:54
+os: Linux-2.6.32-504.30.3.el6.x86_64 #1 SMP Wed Jul 15 10:13:09 UTC 2015
+nodename: app
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/xuanwen/appserver/my_flask
+detected binary path: /usr/sbin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 30457
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5001 fd 3
+uwsgi socket 1 bound to UNIX address /tmp/uwsgi.sock fd 4
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166144 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 24239, cores: 2)
+spawned uWSGI worker 2 (pid: 24240, cores: 2)
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+*** Starting uWSGI 2.0.11.1 (64bit) on [Thu Dec 24 13:23:13 2015] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-11) on 21 July 2015 15:58:54
+os: Linux-2.6.32-504.30.3.el6.x86_64 #1 SMP Wed Jul 15 10:13:09 UTC 2015
+nodename: app
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/xuanwen/appserver/my_flask
+detected binary path: /usr/sbin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/xuanwen/appserver/my_flask
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 30457
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5001 fd 3
+uwsgi socket 1 bound to UNIX address /tmp/uwsgi.sock fd 4
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166144 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 24268, cores: 2)
+spawned uWSGI worker 2 (pid: 24269, cores: 2)
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+*** Starting uWSGI 2.0.11.1 (64bit) on [Thu Dec 24 13:25:19 2015] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-11) on 21 July 2015 15:58:54
+os: Linux-2.6.32-504.30.3.el6.x86_64 #1 SMP Wed Jul 15 10:13:09 UTC 2015
+nodename: app
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/xuanwen/appserver/my_flask
+detected binary path: /usr/sbin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 30457
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5001 fd 3
+uwsgi socket 1 bound to UNIX address /tmp/uwsgi.sock fd 4
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166144 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 24277, cores: 2)
+spawned uWSGI worker 2 (pid: 24278, cores: 2)
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+*** Starting uWSGI 2.0.11.1 (64bit) on [Thu Dec 24 13:25:58 2015] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-11) on 21 July 2015 15:58:54
+os: Linux-2.6.32-504.30.3.el6.x86_64 #1 SMP Wed Jul 15 10:13:09 UTC 2015
+nodename: app
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/xuanwen/appserver/my_flask
+detected binary path: /usr/sbin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 30457
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5001 fd 3
+uwsgi socket 1 bound to UNIX address /tmp/uwsgi.sock fd 4
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166144 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 24282, cores: 2)
+spawned uWSGI worker 2 (pid: 24283, cores: 2)
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+*** Starting uWSGI 2.0.11.1 (64bit) on [Thu Dec 24 13:27:04 2015] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-11) on 21 July 2015 15:58:54
+os: Linux-2.6.32-504.30.3.el6.x86_64 #1 SMP Wed Jul 15 10:13:09 UTC 2015
+nodename: app
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/xuanwen/appserver/my_flask
+detected binary path: /usr/sbin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 30457
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5001 fd 3
+uwsgi socket 1 bound to UNIX address /tmp/uwsgi.sock fd 4
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166144 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 24290, cores: 2)
+spawned uWSGI worker 2 (pid: 24291, cores: 2)
+-- unavailable modifier requested: 0 --
+*** Starting uWSGI 2.0.11.1 (64bit) on [Thu Dec 24 13:27:54 2015] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-11) on 21 July 2015 15:58:54
+os: Linux-2.6.32-504.30.3.el6.x86_64 #1 SMP Wed Jul 15 10:13:09 UTC 2015
+nodename: app
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/xuanwen/appserver/my_flask
+detected binary path: /usr/sbin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/xuanwen/appserver/my_flask
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 30457
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5001 fd 3
+uwsgi socket 1 bound to UNIX address /tmp/uwsgi.sock fd 4
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166144 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 24300, cores: 2)
+spawned uWSGI worker 2 (pid: 24301, cores: 2)
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+*** Starting uWSGI 2.0.11.1 (64bit) on [Thu Dec 24 13:34:03 2015] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-11) on 21 July 2015 15:58:54
+os: Linux-2.6.32-504.30.3.el6.x86_64 #1 SMP Wed Jul 15 10:13:09 UTC 2015
+nodename: app
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/xuanwen/appserver/my_flask
+detected binary path: /usr/sbin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/xuanwen/appserver/my_flask
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 30457
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5001 fd 3
+uwsgi socket 1 bound to UNIX address /tmp/uwsgi.sock fd 4
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166144 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 24322, cores: 2)
+spawned uWSGI worker 2 (pid: 24323, cores: 2)
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+*** Starting uWSGI 2.0.11.1 (64bit) on [Thu Dec 24 13:41:54 2015] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-11) on 21 July 2015 15:58:54
+os: Linux-2.6.32-504.30.3.el6.x86_64 #1 SMP Wed Jul 15 10:13:09 UTC 2015
+nodename: app
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/xuanwen/appserver/my_flask
+detected binary path: /usr/sbin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/xuanwen/appserver/my_flask
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 30457
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5001 fd 3
+uwsgi socket 1 bound to UNIX address /tmp/uwsgi.sock fd 4
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166144 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 24367, cores: 2)
+spawned uWSGI worker 2 (pid: 24368, cores: 2)
+*** Starting uWSGI 2.0.11.1 (64bit) on [Thu Dec 24 14:01:45 2015] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-11) on 21 July 2015 15:58:54
+os: Linux-2.6.32-504.30.3.el6.x86_64 #1 SMP Wed Jul 15 10:13:09 UTC 2015
+nodename: app
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/xuanwen/appserver/my_flask
+detected binary path: /usr/sbin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 30457
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5001 fd 3
+uwsgi socket 1 bound to UNIX address /tmp/uwsgi.sock fd 4
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166144 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 24562, cores: 2)
+spawned uWSGI worker 2 (pid: 24563, cores: 2)
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+*** Starting uWSGI 2.0.11.1 (64bit) on [Thu Dec 24 15:52:49 2015] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-11) on 21 July 2015 15:58:54
+os: Linux-2.6.32-504.30.3.el6.x86_64 #1 SMP Wed Jul 15 10:13:09 UTC 2015
+nodename: app
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/xuanwen/appserver/my_flask
+detected binary path: /usr/sbin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/xuanwen/appserver/my_flask
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 30457
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5001 fd 3
+uwsgi socket 1 bound to UNIX address /tmp/uwsgi.sock fd 4
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166144 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 25145, cores: 2)
+spawned uWSGI worker 2 (pid: 25146, cores: 2)
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+*** Starting uWSGI 2.0.11.1 (64bit) on [Thu Dec 24 16:07:34 2015] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-11) on 21 July 2015 15:58:54
+os: Linux-2.6.32-504.30.3.el6.x86_64 #1 SMP Wed Jul 15 10:13:09 UTC 2015
+nodename: app
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/xuanwen/appserver/my_flask
+detected binary path: /usr/sbin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/xuanwen/appserver/my_flask
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 30457
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5001 fd 3
+uwsgi socket 1 bound to UNIX address /tmp/uwsgi.sock fd 4
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166144 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 25250, cores: 2)
+spawned uWSGI worker 2 (pid: 25251, cores: 2)
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+*** Starting uWSGI 2.0.11.1 (64bit) on [Thu Dec 24 16:34:28 2015] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-11) on 21 July 2015 15:58:54
+os: Linux-2.6.32-504.30.3.el6.x86_64 #1 SMP Wed Jul 15 10:13:09 UTC 2015
+nodename: app
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/xuanwen/appserver/my_flask
+detected binary path: /usr/sbin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/xuanwen/appserver/my_flask
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 30457
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:5001).
+bind(): Address already in use [core/socket.c line 764]
+*** Starting uWSGI 2.0.11.1 (64bit) on [Thu Dec 24 16:35:11 2015] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-11) on 21 July 2015 15:58:54
+os: Linux-2.6.32-504.30.3.el6.x86_64 #1 SMP Wed Jul 15 10:13:09 UTC 2015
+nodename: app
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/xuanwen/appserver/my_flask
+detected binary path: /usr/sbin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/xuanwen/appserver/my_flask
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 30457
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5001 fd 3
+uwsgi socket 1 bound to UNIX address /tmp/uwsgi.sock fd 4
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166144 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 26514, cores: 2)
+spawned uWSGI worker 2 (pid: 26515, cores: 2)
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+*** Starting uWSGI 2.0.11.1 (64bit) on [Thu Dec 24 16:37:09 2015] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-11) on 21 July 2015 15:58:54
+os: Linux-2.6.32-504.30.3.el6.x86_64 #1 SMP Wed Jul 15 10:13:09 UTC 2015
+nodename: app
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/xuanwen/appserver/my_flask
+detected binary path: /usr/sbin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/xuanwen/appserver/my_flask
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 30457
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5001 fd 3
+uwsgi socket 1 bound to UNIX address /tmp/uwsgi.sock fd 4
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166144 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 26532, cores: 2)
+spawned uWSGI worker 2 (pid: 26533, cores: 2)
+-- unavailable modifier requested: 0 --
+*** Starting uWSGI 2.0.11.1 (64bit) on [Thu Dec 24 16:39:28 2015] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-11) on 21 July 2015 15:58:54
+os: Linux-2.6.32-504.30.3.el6.x86_64 #1 SMP Wed Jul 15 10:13:09 UTC 2015
+nodename: app
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/xuanwen/appserver/my_flask
+detected binary path: /usr/sbin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/xuanwen/appserver/my_flask
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 30457
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5001 fd 3
+uwsgi socket 1 bound to UNIX address /tmp/uwsgi.sock fd 4
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166144 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 26544, cores: 2)
+spawned uWSGI worker 2 (pid: 26545, cores: 2)
+-- unavailable modifier requested: 0 --
+-- unavailable modifier requested: 0 --
+*** Starting uWSGI 2.0.11.1 (64bit) on [Thu Dec 24 16:40:24 2015] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-11) on 21 July 2015 15:58:54
+os: Linux-2.6.32-504.30.3.el6.x86_64 #1 SMP Wed Jul 15 10:13:09 UTC 2015
+nodename: app
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/xuanwen/appserver/my_flask
+detected binary path: /usr/sbin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/xuanwen/appserver/my_flask
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 30457
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5001 fd 3
+uwsgi socket 1 bound to UNIX address /tmp/uwsgi.sock fd 4
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166144 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 26552, cores: 2)
+spawned uWSGI worker 2 (pid: 26553, cores: 2)
+-- unavailable modifier requested: 0 --
