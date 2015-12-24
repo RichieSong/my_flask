@@ -6,13 +6,21 @@ requirement bag
 	flask-migrate
 	uwsgi
 	
+-----------------------------------------------------------------
+uwsgi startup method:
+
+uwsgi config.ini  or
+uwsgi --ini config.ini 
+	uwsgi --xml
+	      --json
+	      --yam
 
 -----------------------------------------------------------------
 nginx:configretion
 
 server {
    listen 80;
-   server_name 101.200.1.34;
+   server_name domain_name;
    access_log /home/xuanwen/appserver/my_flask/logs/access.log;
    error_log /home/xuanwen/appserver/my_flask/logs/error.log;
    location / {
