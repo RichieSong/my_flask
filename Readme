@@ -44,3 +44,12 @@ server {
         uwsgi_param UWSGI_SCRIPT manage:app;
    }
 }
+
+-----------------------------------------------------------------
+#查看安装的依赖包机版本
+pip freeze > requirements.txt
+#安装依赖包
+pip install -r requirements.txt
+
+-----------------------------------------------------------------
+
